@@ -1,0 +1,31 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 30px;
+    text-align: center;
+}
+
+input {
+    padding: 8px;
+    width: 250px;
+    margin-right: 10px;
+}
+
+button {
+    padding: 8px 15px;
+}
+
+table {
+    margin: 20px auto;
+    border-collapse: collapse;
+    width: 90%;
+}
+
+table, th, td {
+    border: 1px solid black;
+    padding: 8px;
+}
+
+.error {
+    color: red;
+    font-weight: bold;
+}
